@@ -1,0 +1,22 @@
+x = int(input ('Digite um número: '))
+a = x * 1
+b = x * 2
+c = x * 3
+d = x * 4
+e = x * 5
+f = x * 6
+g = x * 7
+h = x * 8
+i = x * 9
+j = x * 10
+print (x,'x1 =' ,a)
+print (x,'x2 =' ,b)
+print (x,'x3 =' ,c)
+print (x,'x4 =' ,d)
+print (x,'x5 =' ,e)
+print (x,'x6 =' ,f)
+print (x,'x7 =' ,g)
+print (x,'x8 =' ,h)
+print (x,'x9 =' ,i)
+print (x,'x10 =' ,j)
+
